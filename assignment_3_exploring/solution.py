@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 # {Timotheos Souroulla}
-# {19950726-T510}
 # {timsou@kth.se}
 
 from dubins import *
